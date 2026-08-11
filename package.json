@@ -1,7 +1,7 @@
 {
   "name": "seltius",
   "version": "1.0.0",
-  "description": "Sensei tarafından yapılan kayıt botudur.",
+  "description": "Seltius tarafından yapılan kayıt botudur.",
   "main": "index.js",
   "scripts": {
     "test": "node index.js"
