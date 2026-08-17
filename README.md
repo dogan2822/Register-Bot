@@ -13,7 +13,7 @@
 2. Olabildiğince anlaşılacak şekilde yazmaya çalıştım,
 3. Config klasöründe ki dosyalarda boş yer bırakmayın,
 4. Çoğu şey config klasöründen ayarlanabilir,
-5. Bu proje [exsus](https://discord.com) ve [nymphdora](https://discord.gg/6Dxe4PJgKa) sunucuları için özel olarak benim tarafından hazırlanmıştır.
+5. Bu proje [seltius](https://discord.gg/epCh6ztzW) sunucuları için özel olarak benim tarafından hazırlanmıştır.
 
 ---
 
